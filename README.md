@@ -1,6 +1,6 @@
 <h1 align="center">🎁 ChristmasGifts4Devs 🎁</h1>
 
-### A curated collection of thoughtful gift ideas for the developers in your life. From practical tools to fun gadgets, find the perfect present for your favorite coder!
+### A collection of thoughtful gift ideas for the developers in your life, curated by the devs of the world. From practical tools to fun gadgets, find the perfect present for your favorite coder!
 
 ## 📋 Table of Contents
 
