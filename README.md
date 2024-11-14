@@ -13,6 +13,7 @@
 - [🏢 Home Office](#-home-office)
 - [🔧 Productivity Tools](#-productivity-tools)
 - [🎨 Creative Gadgets](#-creative-gadgets)
+- [💡 Misc](#-misc)
 
 ## 🖥️ Hardware & Accessories
 
@@ -129,6 +130,11 @@
 | Prusa i3 MK3S+ | 3D printer kit | [Website](https://example.com) |
 | Arduino Starter Kit | Electronics project kit | [Amazon](https://example.com) |
 | Raspberry Pi 4 Kit | Single board computer kit | [Amazon](https://example.com) |
+
+## 💡 Misc
+| Item | Description | Link | Price |
+|------|-------------|------|-------|
+| Programming Laptop Stickers | A pack of 120 programming stickers | [Amazon]([https://example.com](https://www.amazon.com/ULSEIGN-Computer-Programming-Developers-Programmers/dp/B0C3YMH7TQ/ref=sr_1_4?dib=eyJ2IjoiMSJ9.Ndqs618tw3w6YmFvc8HR2OIdrqJ-hMJV66ff0-c6V28HLOG9yTP-6ZhAJy_Rvv5Tb7rO91MBLBkWT3XBIswKEi8QcCEpt04_8gyU74-iNOtXLyozact6_6UBZmyQ0ZdDk_JR8gyIfx006O1vfi7R6EQZWD94Mo3wAEQ4DMqU7vKACNcHwsLLHgmUD7IRuLsNKaM2ALamqo_dbdqjHu7z1tGGHAIXofXt8SNEGLilTyM.5Po3ktFVGs_rgl8vP7-Lk-ymjSpFQvRrONv12u_iGXU&dib_tag=se&keywords=programming+stickers&qid=1731556294&sr=8-4)) | $7 USD |
 
 ## 🤝 Contributing
 
