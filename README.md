@@ -109,9 +109,10 @@
 ### Furniture
 | Item | Description | Link | Price |
 |------|-------------|------|-------|
-| Herman Miller Aeron | Premium ergonomic chair | [Website](https://example.com) |
+| Standing Desk | A Rising desk so you can stand while hacking away. | [Amazon](https://www.amazon.com/Claiks-Electric-Standing-Adjustable-Height/dp/B0BZ7GXM4M/ref=sr_1_1_sspa?crid=3SCRHA118UNWR&dib=eyJ2IjoiMSJ9.k4fZVMQGOjjxKMGv6mIkq7faamE4VKCQZIp-wP5npeTqdC8s5aqeupOd57LFIub1.Kf6Jhj6BylAfYosF0V3yob_mSmRiunCve5grxzR5Fk4&dib_tag=se&keywords=clarisonic%2Bdesk&qid=1731710255&sprefix=claiksrising%2Bdesk%2Caps%2C98&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) | $120 USD |
 | Fully Jarvis | Adjustable standing desk | [Website](https://example.com) |
 | VIVO Cable Management | Cable organization kit | [Amazon](https://example.com) |
+
 
 ## 🔧 Productivity Tools
 
